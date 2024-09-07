@@ -96,3 +96,4 @@ We welcome contributions, issues, and feature requests! Check out our [issues pa
 
 - [egui](https://github.com/emilk/egui) for the graphical user interface.
 - [eframe](https://github.com/emilk/egui/tree/master/eframe) for the application framework.
+- [Alweul](https://www.gta5-mods.com/tools/gta-5-shader-unpacker) 
