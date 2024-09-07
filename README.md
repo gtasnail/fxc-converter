@@ -13,6 +13,7 @@
   <a href="#installation">Installation</a> •
   <a href="#usage">Usage</a> •
   <a href="#screenshots">Screenshots</a> •
+  <a href="#example-shaders">Example Shaders</a> •
   <a href="#license">License</a> •
   <a href="#contributing">Contributing</a>
 </p>
@@ -77,6 +78,11 @@ Download the latest release from our [GitHub Releases](https://github.com/gtasna
 
 ### Normal Directional Light Rendering (Example POC)
 ![Normal Render](/screenshots/normalrender.png)
+![Normal Render #2](/screenshots/normalrender2.png)
+
+## Example Shaders
+
+The `/example-shaders/` directory contains example shaders, including a demonstration of normal rendering from the g-buffer in `directional.fxc`. This can serve as a starting point for your own shader modifications.
 
 ## License
 
