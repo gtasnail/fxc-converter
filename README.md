@@ -4,7 +4,6 @@
   <img src="screenshots/logo.png" alt="FXC Converter Logo" width="200">
 </p>
 
-<iframe style="width:600px;height:400px;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=#gtasnail/fxc-converter&Date" frameBorder="0"></iframe>
 
 <p align="center">
   <strong>Unpack and repack .fxc shader files for Grand Theft Auto 5 with ease</strong>
@@ -99,3 +98,6 @@ We welcome contributions, issues, and feature requests! Check out our [issues pa
 - [egui](https://github.com/emilk/egui) for the graphical user interface.
 - [eframe](https://github.com/emilk/egui/tree/master/eframe) for the application framework.
 - [Alweul](https://www.gta5-mods.com/tools/gta-5-shader-unpacker) 
+
+
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=#gtasnail/fxc-converter&Date" frameBorder="0"></iframe>
