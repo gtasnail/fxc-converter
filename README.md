@@ -100,4 +100,3 @@ We welcome contributions, issues, and feature requests! Check out our [issues pa
 - [Alweul](https://www.gta5-mods.com/tools/gta-5-shader-unpacker) 
 
 
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=#gtasnail/fxc-converter&Date" frameBorder="0"></iframe>
