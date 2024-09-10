@@ -3,8 +3,8 @@ setlocal enabledelayedexpansion
 
 rem USAGE:
 rem 1. Put this batch file and cmd_Decompiler.exe in the same directory
-rem 2. Drag and drop multiple files (e.g., water.o400, water.o3179) onto this batch file to process them
-rem 3. Output files will be named like water.400.hlsl, water.3179.hlsl
+rem 2. Drag and drop multiple files (e.g., sky_system.o18724, sky_system.o62273) onto this batch file to process them
+rem 3. Output files will be named like sky_system.18724.hlsl, sky_system.62273.hlsl
 rem 4. For use with Renderdoc:
 rem 4.1. Renderdoc -> Tools -> Settings -> Shader Viewer -> Add
 rem 4.2. Name: whatever you like
