@@ -55,6 +55,12 @@ Download the latest release from our [GitHub Releases](https://github.com/gtasna
 
 ## Usage
 
+<video controls>
+  <source src="https://forum-cfx-re.akamaized.net/original/5X/4/e/d/8/4ed8ec1429f8061d1475b9aa1f79a6bfb85b0054.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ### Unpacking FXC Files
 
 1. Click "📁 Select FXC File" to choose an `.fxc` file.
